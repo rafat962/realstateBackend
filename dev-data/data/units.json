@@ -1,0 +1,882 @@
+[
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":1925000,
+        "bedrooms":2,
+        "pathrooms":1,
+        "area":100,
+        "developer":"EOH-Emerald",
+        "devolper_logo":"mostkbl.jpeg",
+        "outdoor_description":" Outdoor green spaces 12,000 meters,Indoor green spaces 2800 meters,All services, including schools, banks and supermarkets",
+        "type":"Apartment",
+        "Purpose":"Buy",
+        "data":"3 March 2024",
+        "city":"Noor City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.378606793252745, 33.373341899852724],
+            "address": "Hurghada, Red Sea"
+        }
+    },
+    {
+        "main_img":"2/main.jpg",
+        "sub_img":["2/sub1.jpg","2/sub2.jpg","2/sub3.jpg","2/sub4.jpg","2/sub5.jpg","2/sub6.jpg"],
+        "price":1963500,
+        "bedrooms":2,
+        "pathrooms":1,
+        "area":90,
+        "developer":"EOH-Emerald",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"منتجع النور سيتي الاحياء بجوار بيست واي منتجع كتكامل الخدمات ويوجد به حمامات سباحه كيدز اريا جيم سونا مول تجاري يوجد به مساحات مختلفه يقع في مكان سكني يوجد امامه كل الخدمات مثل المدارس والبنوك والسوبر ماركت استلام 2026 تشطيب سوبر لوكس",
+        "type":"Apartment",
+        "Purpose":"Rent",
+        "data":"3 March 2024",
+        "city":"Noor City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.28379564036479, 33.767243964048795],
+            "address": "Hurghada, Red Sea"
+        }
+    },
+    {
+        "main_img":"3/main.jpg",
+        "sub_img":["3/sub1.jpg","3/sub2.jpg","3/sub3.jpg","3/sub4.jpg","3/sub5.jpg","3/sub6.jpg"],
+        "price":69000000,
+        "bedrooms":3,
+        "pathrooms":2,
+        "area":151,
+        "developer":"Falcon Real Estate",
+        "devolper_logo":"falcon.jpeg",
+        "outdoor_description":"Apartment with immediate receipt, 151 square meters, in Al-Maqsad, the administrative capital, fully finished,Apartment Buy in the Administrative Capital, Al Maqsad Compound,Location of Al Maqsad Compound, New Administrative Capital: in the heart of the New Capital, in the Third District.",
+        "type":"Apartment",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"New Capital City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.22438447952243, 31.79503368515324],
+            "address": "Latin District, Alamein, Matruh"
+        }
+    },
+    { 
+        "main_img":"4/main.jpg",
+        "sub_img":["4/sub1.jpg","4/sub2.jpg","4/sub3.jpg","4/sub4.jpg","4/sub5.jpg","4/sub6.jpg"],
+        "price":5600000,
+        "bedrooms":3,
+        "pathrooms":1,
+        "area":170,
+        "developer":"Falcon Real Estate",
+        "devolper_logo":"falcon.jpeg",
+        "outdoor_description":"Apartment with immediate receipt finished 170 meters in the Latin Quarter El Alamein City,Apartment Buy in New Alamein City,Latin Quarter project,The most distinguished location in El Alamein / fully finished / immediate receipt.",
+        "type":"Apartment",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Matruh",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.02438447952243, 31.69503368515324],
+            "address": "Latin District, Alamein, Matruh"
+        }
+    },
+    {
+        "main_img":"5/main.jpg",
+        "sub_img":["5/sub1.jpg","5/sub2.jpg","5/sub3.jpg","5/sub4.jpg","5/sub5.jpg","5/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":2,
+        "pathrooms":1,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"mostkbl.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.05048299584158, 31.86083003255306],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"6/main.jpg",
+        "sub_img":["6/sub1.jpg","6/sub2.jpg","6/sub3.jpg","6/sub4.jpg","6/sub5.jpg","6/sub6.jpg"],
+        "price":6500000,
+        "bedrooms":3,
+        "pathrooms":1,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Apartment",
+        "Purpose":"Rent",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.040199671102954, 31.66950173959866],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":7500000,
+        "bedrooms":2,
+        "pathrooms":1,
+        "area":250,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Apartment",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.033458783770605, 31.66672571550766],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":4200000,
+        "bedrooms":4,
+        "pathrooms":1,
+        "area":140,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Apartment",
+        "Purpose":"Rent",
+        "data":"8 March 2023",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.039308580610945, 31.75481109862764],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":15000000,
+        "bedrooms":4,
+        "pathrooms":3,
+        "area":310,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"6 jun 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.03133168920532, 31.637857852249866],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":1300000,
+        "bedrooms":3,
+        "pathrooms":1,
+        "area":123,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Apartment",
+        "Purpose":"Rent",
+        "data":"25 Dec 2023",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.02414634393475, 31.631619101063457],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":3900000,
+        "bedrooms":3,
+        "pathrooms":2,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Apartment",
+        "Purpose":"Off-Plan",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.000027648791857, 31.648848610924382],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Rent",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [29.999486642647096, 31.642492303078196],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Rent",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [29.99493340879507, 31.680465611263585],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Off-Plan",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [29.99520206487243, 31.66935760657401],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [29.964095428990547, 31.66219646955025],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":1,
+        "area":200,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [29.962724792059387, 31.666789640474004],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":4,
+        "pathrooms":2,
+        "area":180,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [29.91915587240265, 31.638687781477238],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":6,
+        "pathrooms":2,
+        "area":330,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [29.91713217312869, 31.643399161421282],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":2,
+        "area":250,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [29.917981409064833, 31.648391973340907],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":4,
+        "pathrooms":2,
+        "area":280,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [29.918050350274253, 31.65032687580594],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":4,
+        "pathrooms":2,
+        "area":220,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [29.918382539868457, 31.646700608558366],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.041360037691888, 31.464948024711166],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.038386752346337, 31.462736886268612],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.03560329931287, 31.46232505249581],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.035686767193077, 31.459038175594],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.035254251021467, 31.455549703489165],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.034912789562497, 31.452394301614287],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.03294746635744, 31.450685125620474],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.029752784433434, 31.453700287422077],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.025844660607408, 31.451228555911552],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.02542727902464, 31.452920201918715],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Off-Plan",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.02365004000023, 31.442268240012723],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Off-Plan",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.02981314654188, 31.436340159968697],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Off-Plan",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.029966292543104, 31.43486606769984],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Off-Plan",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.027771177211378, 31.439244121763412],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Off-Plan",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.026099283507477, 31.433966871378978],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Off-Plan",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.02566535229531, 31.430856536691678],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Off-Plan",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.02691725389448, 31.427243013290624],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.044767172961702, 31.44851638515085],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.046987085281696, 31.445403236116626],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    },
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":3,
+        "area":230,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"townhouse 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Townhouse",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.048698924004345, 31.448669490833893],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    } ,
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":19000000,
+        "bedrooms":3,
+        "pathrooms":2,
+        "area":330,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"Villa 230 M ready to move at Green Square Mostakbal City,Townhouse corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Villa",
+        "Purpose":"Buy",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.028698924004345, 31.328669490833893],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    } ,
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":13000000,
+        "bedrooms":2,
+        "pathrooms":1,
+        "area":200,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"Villa 230 M ready to move at Green Square Mostakbal City,Villa corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Villa",
+        "Purpose":"Rent",
+        "data":"3 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.058698924004345, 31.4278669490833893],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    } ,
+    {
+        "main_img":"1/main.jpg",
+        "sub_img":["1/sub1.jpg","1/sub2.jpg","1/sub3.jpg","1/sub4.jpg","1/sub5.jpg","1/sub6.jpg"],
+        "price":32000000,
+        "bedrooms":5,
+        "pathrooms":3,
+        "area":450,
+        "developer":"G. O. A. T",
+        "devolper_logo":"goat.jpeg",
+        "outdoor_description":"Villa 230 M ready to move at Green Square Mostakbal City,Villa corner Buy at Mostakbal City,Compound: Green Square,Company: Al Ahly Sabbour,Built up area : 230 m,3 bedrooms,3 bathrooms",
+        "type":"Villa",
+        "Purpose":"Off-Plan",
+        "data":"2 March 2024",
+        "city":"Mostakbal City",
+        "location": {
+            "type": "Point",
+            "coordinates": [30.048698924004345, 31.448669490833893],
+            "address": "Green Square, Mostakbal City, Cairo"
+        }
+    } 
+]
